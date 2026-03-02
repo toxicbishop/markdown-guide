@@ -336,9 +336,9 @@ Use HTML tables to position images side by side or in grids.
 
 <table>
   <tr>
-    <td><img src="https://via.placeholder.com/150" alt="Image 1" /></td>
-    <td><img src="https://via.placeholder.com/150" alt="Image 2" /></td>
-    <td><img src="https://via.placeholder.com/150" alt="Image 3" /></td>
+    <td><img src="assets/template1.svg" alt="Template 1" width="150" /></td>
+    <td><img src="assets/template2.svg" alt="Template 2" width="150" /></td>
+    <td><img src="assets/template3.svg" alt="Template 3" width="150" /></td>
   </tr>
 </table>
 
