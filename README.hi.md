@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="README.md">English</a> |
-  <a href="README.zh.md">简体中文</a> |
-  <a href="README.es.md">Español</a> |
   <strong>हिन्दी</strong> |
   <a href="README.kn.md">ಕನ್ನಡ</a> |
   <a href="README.te.md">తెలుగు</a>
