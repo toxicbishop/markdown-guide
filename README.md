@@ -21,9 +21,9 @@
 
 <p align="center">
   <strong>English</strong> |
-  <a href="README.hi.md">हिन्दी</a> |
   <a href="README.kn.md">ಕನ್ನಡ</a> |
-  <a href="README.te.md">తెలుగు</a>
+  <a href="README.te.md">తెలుగు</a> |
+  <a href="README.hi.md">हिन्दी</a>
 </p>
   
 <p align="center"> A clean, complete guide for anyone writing better README files. </p>

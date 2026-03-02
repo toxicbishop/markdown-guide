@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="README.md">English</a> |
-  <a href="README.hi.md">हिन्दी</a> |
   <strong>ಕನ್ನಡ</strong> |
-  <a href="README.te.md">తెలుగు</a>
+  <a href="README.te.md">తెలుగు</a> |
+  <a href="README.hi.md">हिन्दी</a>
 </p>
 
 <p align="center"> ಉತ್ತಮ README ಫೈಲ್‌ಗಳನ್ನು ಬರೆಯಲು ಸಂಪೂರ್ಣ ಮಾರ್ಗದರ್ಶಿ </p>
