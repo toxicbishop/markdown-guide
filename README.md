@@ -363,21 +363,24 @@ Center a single image with specific width:
 GitHub READMEs don't support direct video embeds, but you can use these approaches:
 
 ### Link to Video
-[Watch the Demo Video](https://youtube.com/watch?v=example)
+[Watch the Demo Video](https://youtu.be/dQw4w9WgXcQ?si=9jCI5eK2Cyjg7_Ua)
 ```md
-[Watch the Demo Video](https://youtube.com/watch?v=example)
+[Watch the Demo Video](https://youtu.be/dQw4w9WgXcQ?si=9jCI5eK2Cyjg7_Ua)
 ```
 
 ### GIF as Video Preview
 Convert short clips to GIFs for inline playback:
+
+![Demo](https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif)
+
 ```md
-![Demo](assets/demo.gif)
+![Demo](https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif)
 ```
 
 ### Video Thumbnail with Link
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Video Title](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ```md
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Video Title](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ```
 
 ### Uploaded Videos (GitHub Issues/Discussions)
