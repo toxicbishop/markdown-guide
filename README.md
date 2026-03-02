@@ -18,6 +18,12 @@
       <img src="https://img.shields.io/github/forks/toxicbishop/markdown-guide?style=for-the-badge&logo=github&color=orange" alt="GitHub forks" />
     </a>
   </p>
+
+<p align="center">
+  <strong>English</strong> |
+  <a href="README.zh.md">简体中文</a> |
+  <a href="README.es.md">Español</a>
+</p>
   
 <p align="center"> A clean, complete guide for anyone writing better README files. </p>
 
@@ -32,7 +38,12 @@
 - [Code Blocks](#code-blocks)
 - [Diff Code Blocks](#diff-code-blocks)
 - [Mermaid Diagrams](#mermaid-diagrams)
-- [Tables](#tables)
+- [Tables](#tables)Expand the Project
+
+Add .github/ISSUE_TEMPLATE/ - issue templates for bug reports, feature requests
+Add .github/PULL_REQUEST_TEMPLATE.md - PR template
+Create a GitHub Pages site to host an interactive version
+Add translations in separate files (e.g., README.zh.md, README.es.md)
 - [Blockquotes](#blockquotes)
 - [Horizontal Line](#horizontal-line)
 - [Links](#links)

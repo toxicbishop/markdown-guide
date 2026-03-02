@@ -1,0 +1,15 @@
+title: Markdown Guide
+description: A clean, complete guide for anyone writing better README files
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Site settings
+baseurl: "/markdown-guide"
+url: "https://toxicbishop.github.io"
+
+# Exclude files from build
+exclude:
+  - LICENSE
+  - CONTRIBUTING.md
+  - .github/
